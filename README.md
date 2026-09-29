@@ -1,4 +1,4 @@
-# universidad privada del Estado de México 
-# perla Citlalli Cueto Pérez 
-# semestre 3 
+# Universidad Privada del Estado de México 
+# Perla Citlalli Cueto Pérez 
+# Semestre 3 
 # Ingeniería en sistemas 
